@@ -50,3 +50,6 @@ To run the app, you must:
   AWS_SECRET_ACCESS_KEY=your_secret_key
   AWS_REGION=us-west-2
   ```
+## 🎥 Demo Video
+
+[![Watch the demo](https://youtu.be/98NF0skjAD8)
