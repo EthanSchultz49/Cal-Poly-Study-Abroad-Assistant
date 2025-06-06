@@ -52,4 +52,5 @@ To run the app, you must:
   ```
 ## 🎥 Demo Video
 
-[![Watch the demo](https://youtu.be/98NF0skjAD8)
+Watch the demo on [YouTube](https://youtu.be/98NF0skjAD8)
+
